@@ -37,7 +37,7 @@
     }
   ],
   "url": "https://github.com/Trentone/combat-exhaustion",
-  "manifest": "https://github.com/Trentone/combat-exhaustion/master/module.json",
+  "manifest": "https://raw.githubusercontent.com/Trentone/combat-exhaustion/refs/heads/master/module.json",
   "download": "https://github.com/Trentone/combat-exhaustion/archive/master.zip",
   "readme": "https://github.com/Trentone/combat-exhaustion/blob/master/README.md",
   "changelog": "https://github.com/Trentone/combat-exhaustion/blob/master/CHANGELOG.md",
