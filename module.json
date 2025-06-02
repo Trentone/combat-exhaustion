@@ -2,7 +2,7 @@
   "id": "combat-exhaustion",
   "title": "Combat Exhaustion",
   "description": "Simple Module for adding exhaustion depending on the amount of downs a player has received",
-  "version": "1.2.1",
+  "version": "1.2.1.1",
   "compatibility": {
     "minimum": "11",
     "verified": "12.331",
@@ -37,7 +37,7 @@
     }
   ],
   "url": "https://github.com/Trentone/combat-exhaustion",
-  "manifest": "https://github.com/Trentone/combat-exhaustion/releases/latest/download/module.json",
+  "manifest": "https://github.com/Trentone/combat-exhaustion/master/module.json",
   "download": "https://github.com/Trentone/combat-exhaustion/archive/master.zip",
   "readme": "https://github.com/Trentone/combat-exhaustion/blob/master/README.md",
   "changelog": "https://github.com/Trentone/combat-exhaustion/blob/master/CHANGELOG.md",
